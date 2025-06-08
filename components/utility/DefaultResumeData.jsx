@@ -1,6 +1,6 @@
 const DefaultResumeData = {
   name: "Nilesh Barela",
-  position: "Developer",
+  position: " Web Developer",
   contactInformation: "+918421507405",
   email: "barelanilesh483@gmail.com",
   address: "Lasur ,Chopda, Maharashtra, India",
@@ -19,39 +19,39 @@ const DefaultResumeData = {
       link: "linkvault-ebon.vercel.app",
     },
   ],
-  summary: "Resourceful Developer with 1 years of experience in designing and developing user interfaces, testing and training employees. Skilled at utilizing a wide variety of tools and programs to provide effective applications.",
+  summary: "Self-driven and detail-oriented Computer Science undergraduate with hands-on experience in full-stack web development, AI/ML, and cybersecurity. Proficient in building scalable applications, secure systems, and visually engaging platforms using modern technologies like React.js, PHP, Firebase, and SQL. Completed multiple industry-relevant virtual internships in software engineering, data analytics, and cybersecurity with companies like Google, HPE, Mastercard, and Tata Group. Adept at problem-solving, UI/UX design, and deploying real-time applications. Passionate about continuous learning and contributing to impactful tech solutions in dynamic environments.",
   education: [
     {
-      "school": "Bachelor of Computer Science",
-      "degree": "Alliance University",
+      "school": "Bachelor of Technology (B.Tech) in Computer Science and Engineering",
+      "degree": "Alliance University, Bengaluru",
       "startYear": "2024-04-20",
       "endYear": "2028-07-01"
     },
   ],
   workExperience: [
     {
-      "company": "Torph TTC",
-      "position": "Developer",
-      "description": "Torph TTC is a global software company that offers user interface UI development tools and components for a range of developer applications across all platforms.",
-      "keyAchievements": "Created and maintained 10 web applications for numerous national and foreign clients.\nEnsured that the user interfaces and user experience of the software applications developed by the team met at least 80% of users expectations.\nCreated and analyzed 500 unit test cases.\nDeveloped python scripts to automate image's noise-reduction process which helped improve research analysis time by 40%.\nEstablished and lead a team of 10 people; covering every key role in the early stages.",
-      "startYear": "2023-02-16",
-      "endYear": "2023-02-21"
+      "company": "Tata Group",
+      "position": "Cybersecurity Analyst",
+      "description": "Responded to simulated security breaches and performed risk assessments./nDesigned access control policies and monitored potential cyber threats./nLearned corporate cybersecurity tools and processess",
+      "keyAchievements": "",
+      "startYear": "2024-02-16",
+      "endYear": "2024-04-21"
     },
     {
-      "company": "Reilty Group",
-      "position": "Front End Web Developer",
-      "description": "Reilty Group is an industry-leading provider of online gambling software and solutions.",
-      "keyAchievements": "Increased by 35% the reach of users to the platform, over the installation of the web platform in mobile devices.\nDelivered 30 web solutions.\nReplaced 1 full-time web developer under part-time employment achieving a productivity gain of over 60% as measured by working hours.\nWorked with more than 4 different teams at different points of time and provided end-to-end solutions for clients.",
-      "startYear": "2023-02-22",
-      "endYear": "2023-03-09"
+      "company": "Cybersecurity Analyst",
+      "position": "Cybersecurity Analyst",
+      "description": "Investigated phishing attacks, risk analysis, and reported cybersecurity incidents./nWorked on developing incident response plans and secure network design./nGained insights into enterprise-level cybersecurity infrastructure.",
+      "keyAchievements": "",
+      "startYear": "2024-04-22",
+      "endYear": "2024-05-09"
     },
     {
-      "company": "HellX",
-      "position": "Python Developer",
-      "description": "Heller is a Software Editor specialized in logistics management.",
-      "keyAchievements": "Developed several automation systems - saved over $50,000 annually.\nJoined the team as #10 employee as a developer working directly with the biggest customers.\nInvolved in coding as per the requirement, delivered well ahead of time which saved project cost by 20%.\nReduced database size by nearly 50% and improved its performance by 20%.\nDelivery time of good reduced by 50%.",
-      "startYear": "2023-02-22",
-      "endYear": "2023-03-09"
+      "company": "Hewlett Packard Enterprise",
+      "position": "Virtual Software Engineer",
+      "description": "Developed and optimized software features using agile methodologies./nPracticed code review, debugging, and version control processes using Git./nSimulated collaboration with cross-functional teams on enterprise-grade applications.",
+      "keyAchievements": "",
+      "startYear": "2025-02-22",
+      "endYear": "2023-05-09"
     }
   ],
   projects: [],
@@ -81,8 +81,14 @@ const DefaultResumeData = {
     "Marathi",
   ],
   certifications: [
-    "Certified Web Professional-Web Developer",
-    "Java Development Certified Professional",
+    "•  Hewlett Packard Enterprise - Software Engineering Job Simulation (Forage) – May 2025",
+    "•	Commonwealth Bank - Introduction to Cybersecurity (Forage) – Apr 2025",
+    "•	Electronic Arts - Software Engineering Job Simulation (Forage) – Apr 2025",
+    "•	Mastercard - Cybersecurity Job Simulation (Forage) – Apr 2025",
+    "•	Tata Group - Cybersecurity Analyst Job Simulation (Forage) – Apr 2025",
+    "•	Tata Group - Data Visualisation Job Simulation (Forage) – Apr 2025",
+    "•	Accenture North America - Data Analytics & Visualization Job Simulation (Forage) – Nov 2024",
+    "•	Google - Introduction to Generative AI – Sep 2024",
   ],
 };
 
